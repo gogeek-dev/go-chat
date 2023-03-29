@@ -17,7 +17,7 @@ type Message struct {
 
 func AddRoute(r *gin.RouterGroup) *gin.RouterGroup {
 
-	r.GET("/", Index)
+	r.GET("/index", Index)
 	r.GET("/ws", HandleConnections)
 
 	return r
