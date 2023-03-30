@@ -1,4 +1,4 @@
-module github.com/gogeek-dev/go-chat/go-chat
+module github.com/gogeek-dev/go-chat
 
 go 1.19
 
