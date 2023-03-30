@@ -1,4 +1,4 @@
-module github.com/gogeek-dev/go-event-calendar
+module github.com/gogeek-dev/go-chat/go-event-calendar
 
 go 1.19
 
